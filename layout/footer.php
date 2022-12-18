@@ -14,7 +14,7 @@
                 <h3 class="title">Thông tin cửa hàng</h3>
                 <ul class="list-item">
                     <li>
-                        <p>Trần Cung - Cầu Giấy - Hà Nội</p>
+                        <p>Trần Cung - Cầu Giấy - Hà Nội - Việt Nam</p>
                     </li>
                     <li>
                         <p>0788.048.699 - 0788.048.699</p>
